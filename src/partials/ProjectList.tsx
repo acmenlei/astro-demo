@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="剪切助手"
         description="剪切助手，轻松管理您的文本复制粘贴！简化您的工作流程，通过一键操作，快速访问最近复制的文本内容，提高工作效率，让剪切板管理变得轻松便捷！"
-        link="/"
+        link="https://jianqiezhushou.com"
         img={{
           src: 'https://jianqiezhushou.com/_astro/logo.73aa3e83.png',
           alt: '剪切助手',
